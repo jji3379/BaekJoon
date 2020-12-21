@@ -1,4 +1,4 @@
-package test.main;
+package test;
 
 public class No_10718{
 	public static void main(String[] args) {
