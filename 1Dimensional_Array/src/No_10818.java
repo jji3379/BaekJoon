@@ -17,6 +17,5 @@ public class No_10818 {
         Arrays.sort(value);
 
         System.out.print(value[0]+" "+value[N-1]);
-
     }
 }
